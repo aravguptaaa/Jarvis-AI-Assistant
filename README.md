@@ -1,16 +1,4 @@
 # Jarvis: Your Personal AI Assistant for macOS
-
-<p align="center">
-  <img src="https://i.imgur.com/vHqQz5F.gif" alt="Jarvis in Action" width="800"/>
-  <em>A voice-powered AI assistant to command your macOS universe, inspired by the one and only.</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
-  <img src="https://img.shields.io/badge/OS-macOS-lightgrey?style=for-the-badge&logo=apple" alt="macOS">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</p>
-
 ---
 
 ## Overview
