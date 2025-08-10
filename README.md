@@ -37,6 +37,7 @@ Once the "Brain" has the text, it makes a crucial choice:
 
 This output is then processed:
 AI Output -> [Parse: JSON or Text?] -> Execute Action / Speak Response -> User
+Live Demo - Loom Video: https://www.loom.com/share/e40a64d973194ee4a2900aabc6280b75?sid=6f9456ab-d020-40f6-b383-eaa2b2f2d1ec
 
 
 ## Tech Stack
